@@ -1,0 +1,41 @@
+---
+title: Programador de primeira viagem - Python - Conceitos Básicos
+date: 2021-04-10 15:22:00 +/-TTTT
+categories: [programming]
+tags: [hints, funções, python]     # TAG names should always be lowercase
+---
+
+![Python](/assets/img/python.png)
+
+<small>Minha bagagem em programação é bem pequena, porém, entendo a necessidade e comecei a estudar um pouco sobre Python.</small>\
+<small>Aqui, deixarei alguns conceitos realmente básicos, mas,  que podem ajudar no entendimento inicial do assunto.
+
+
+#### Hints: 
+
+1. Sempre que uma função é utilizada, parênteses devem ser utilizados para continuarmos a sintaxe. Por exemplo: 
+    
+         print("Hello World")
+
+2. Para declarar uma variável, utilize `=`. Por exemplo:
+         
+         variavel_hformaggi="blog"
+
+    Conforme desejado, a variável foi alimentada com a palavra **blog**. Para verificar, podemos printar a variável:
+
+        >>> print(variavel_hformaggi)
+        blog
+    
+    <small>OBS: *As aspas definem um texto ou string. Ao printar a variável, não utilizamos aspas pois queremos o valor da variável como resultado, e não, "variavel_hformaggi".*</small>
+
+     >    O padrão utilizado para nomear as variáveis é o **snake_case**, sempre letras minúsculas, separadas por underlines.
+
+
+4. Uma característica da linguagem Python, é a tipagem dinâmica. Ou seja, as variáveis recebem um tipo no momento em que são declaradas, automaticamente.
+    As tipagens mais básicas são: **str** (string), **int** (inteiro) e **float** (valores fracionados).
+
+
+
+
+
+
